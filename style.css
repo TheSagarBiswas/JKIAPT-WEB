@@ -133,3 +133,13 @@ header {
     bottom: 0;
 }
 
+#nav2 ul li .fa-search{
+    padding: 3px;
+    font-size: 0.85rem;
+    position: relative;
+    bottom: 0;
+}
+
+#search {
+    margin-right: 0 !important;
+}
